@@ -1,0 +1,75 @@
+[
+    {
+      "title": "To Kill A Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Bildungsroman",
+      "nextBookTitle": "Of Mice and Men"
+    },
+    {
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "genre": "Mystery",
+      "nextBookTitle": null
+    },
+    {
+      "title": "The Book Theif",
+      "author": "Markus Zusak",
+      "genre": "Historical fiction",
+      "nextBookTitle": "Do Androids Dream of Electric Sheep?"
+    },
+    {
+      "title": "Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Literary Realism",
+      "nextBookTitle": "The Book Thief"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Science Fiction",
+      "nextBookTitle": "Pride and Prejudice"
+    },
+    {
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "genre": "Allegory",
+      "nextBookTitle": "Catcher in the Rye"
+    },
+    {
+      "title": "Of Mice and Men",
+      "author": "John Steinbeck",
+      "genre": "Tragedy",
+      "nextBookTitle": "Lord of the Flies"
+    },
+    {
+      "title": "Do Androids Dream of Electric Sheep?",
+      "author": "Philip K. Dick",
+      "genre": "Science Fiction",
+      "nextBookTitle": "Frankenstein"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Fiction",
+      "nextBookTitle": "Jane Eyre"
+    },
+    {
+      "title": "Macbeth",
+      "author": "William Shakespeare",
+      "genre": "Tragedy",
+      "nextBookTitle": "The Da Vinci Code"
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "genre": "Science Fiction",
+      "nextBookTitle": "1984"
+    },
+    {
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "genre": "Gothic Fiction",
+      "nextBookTitle": "Macbeth"
+    }
+  ]
+  
