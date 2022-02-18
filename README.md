@@ -14,7 +14,7 @@ A collection of small projects that Shira and I built without any starter templa
 (2020 - Pres)  
 _Not in chronological order_
 1. 👋🏽 [BookList-App](https://codesandbox.io/s/booklist-4s2rw?file=/src/index.js) - Vanilla JS
-2. 👋🏽 [React-Hooks Practice](https://codesandbox.io/s/react-hooks-practice-n4ms9?file=/src/components/toDoListApps/hookTodo.js) - React JS w/ Hooks
+2. 👋🏽 [React-Hooks Practice - Part I](https://codesandbox.io/s/react-hooks-practice-n4ms9?file=/src/components/toDoListApps/hookTodo.js) - React JS - useState Hook
 
 ## Exploring Concepts
 Below is a list of followed-along demos of React JS concepts.
