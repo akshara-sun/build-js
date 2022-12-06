@@ -16,6 +16,8 @@ _Not in chronological order_
 1. 👋🏽 [BookList-App](https://codesandbox.io/s/booklist-4s2rw?file=/src/index.js) - Vanilla JS
 2. 👋🏽 React JS Hooks Practice
     - [useState Hook](https://codesandbox.io/s/react-hooks-practice-n4ms9?file=/src/components/toDoListApps/hookTodo.js)
+3. 👋🏽 [Jot](https://github.com/akshara-sun/jot) - Whiteboarding tool to make drawings, to-do-lists, post-its, and notes!
+4. 👋🏽 [NSynth](https://github.com/akshara-sun/nsynth) - Simple piano + drum machine built using [Tone.js](https://tonejs.github.io/)
 
 ## Exploring Concepts
 Below is a list of followed-along demos of React JS concepts.
